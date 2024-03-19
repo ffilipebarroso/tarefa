@@ -1,5 +1,5 @@
 # Documentação do Programa de Lista de Tarefas
-(programa criado nos fundamentos de programação funcional)
+(programa criado nos fundamentos da programação funcional)
 
 ## Introdução
 
